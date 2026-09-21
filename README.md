@@ -2,7 +2,9 @@
 
 Kübra Catering için geliştirilen Connect Master demo ve prototip uygulaması.
 
-## Başlatma
+🔗 **Canlı Demo:** [https://umutaydemir1.github.io/connect-master-mock/](https://umutaydemir1.github.io/connect-master-mock/)
+
+## Yerel Ortamda Başlatma
 
 Projeyi yerel ortamda çalıştırmak için:
 
